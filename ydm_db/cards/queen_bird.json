@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This monster attacks enemies using its huge beak.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/73081602.png",
     "https://images.ygoprodeck.com/images/cards/73081602.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

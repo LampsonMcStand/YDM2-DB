@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This monster swoops down and attacks with a rain of knives stored in its wings.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/10202894.png",
     "https://images.ygoprodeck.com/images/cards/10202894.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1550,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

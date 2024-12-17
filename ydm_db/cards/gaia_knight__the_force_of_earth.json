@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/97204936.jpg",
-    "https://images.ygoprodeck.com/images/cards/97204936.png"
+    "https://images.ygoprodeck.com/images/cards/97204936.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
   "monster_type": "Synchro",

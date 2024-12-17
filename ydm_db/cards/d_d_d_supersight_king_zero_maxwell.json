@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Before damage calculation, if this card attacks an opponent's Defense Position monster: You can change the DEF of that opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. You take no battle damage from battles involving this card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/76029419.jpg",
-    "https://images.ygoprodeck.com/images/cards/76029419.png"
+    "https://images.ygoprodeck.com/images/cards/76029419.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

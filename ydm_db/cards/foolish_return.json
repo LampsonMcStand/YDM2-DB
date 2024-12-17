@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Target 1 card in your opponent's GY; shuffle it into the Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/88369727.jpg",
-    "https://images.ygoprodeck.com/images/cards/88369727.png"
+    "https://images.ygoprodeck.com/images/cards/88369727.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

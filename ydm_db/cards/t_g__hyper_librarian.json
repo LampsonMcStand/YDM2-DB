@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90953320.png",
     "https://images.ygoprodeck.com/images/cards/90953320.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,
   "species": "Spellcaster",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

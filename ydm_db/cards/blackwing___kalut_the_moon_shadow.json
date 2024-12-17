@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "During the Damage Step, when your \"Blackwing\" monster battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 1400 ATK until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85215458.jpg",
-    "https://images.ygoprodeck.com/images/cards/85215458.png"
+    "https://images.ygoprodeck.com/images/cards/85215458.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

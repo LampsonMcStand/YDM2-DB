@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, if all monsters you control are EARTH Warrior Synchro Monsters (min. 1): You can Special Summon \"Goyo Defender\" from your Extra Deck. When this card is targeted for an attack: You can make this card gain 1000 ATK for each EARTH Warrior Synchro Monster you control (other than this card), until the end of the Damage Step.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58901502.jpg",
-    "https://images.ygoprodeck.com/images/cards/58901502.png"
+    "https://images.ygoprodeck.com/images/cards/58901502.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

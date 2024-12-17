@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Once per turn: You can inflict 600 damage to your opponent, also you cannot activate monster effects for the rest of this turn, except \"Raidraptor\" monsters. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Raidraptor\" monster from your Deck, but its effects are negated.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/60508057.png",
     "https://images.ygoprodeck.com/images/cards/60508057.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This monster's wings are capable of generating tornadoes.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/57405307.jpg",
-    "https://images.ygoprodeck.com/images/cards/57405307.png"
+    "https://images.ygoprodeck.com/images/cards/57405307.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

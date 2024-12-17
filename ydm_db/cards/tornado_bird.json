@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/71283180.png",
     "https://images.ygoprodeck.com/images/cards/71283180.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1100,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "Flip",
   "has_effect": true,
   "is_pendulum": false,

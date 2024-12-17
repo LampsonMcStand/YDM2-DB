@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon this card in face-up Attack Position. You can only use the effect of \"Aurora Wing\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/70089580.jpg",
-    "https://images.ygoprodeck.com/images/cards/70089580.png"
+    "https://images.ygoprodeck.com/images/cards/70089580.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

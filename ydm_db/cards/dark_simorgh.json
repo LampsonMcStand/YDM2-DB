@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "While face-up on the field, this card is also WIND-Attribute. If this card is in your hand: You can banish 1 DARK and 1 WIND monster from your GY; Special Summon this card. If this card is in your GY: You can banish 1 DARK and 1 WIND monster from your hand; Special Summon this card. Your opponent cannot Set cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/11366199.png",
     "https://images.ygoprodeck.com/images/cards/11366199.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2700,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

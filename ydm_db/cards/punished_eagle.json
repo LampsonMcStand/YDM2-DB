@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "\"Blue-Winged Crown\" + \"Niwatori\"",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/74703140.png",
     "https://images.ygoprodeck.com/images/cards/74703140.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2100,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

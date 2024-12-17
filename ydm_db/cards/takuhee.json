@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This bird is known far and wide as a harbinger of doom.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/3170832.png",
     "https://images.ygoprodeck.com/images/cards/3170832.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1450,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

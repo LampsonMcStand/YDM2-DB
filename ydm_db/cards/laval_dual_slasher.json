@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner FIRE monsters\nThis card gains effects based on the number of \"Laval\" monsters in your Graveyard:\n\u25cf 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.\n\u25cf 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/31632536.png",
     "https://images.ygoprodeck.com/images/cards/31632536.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

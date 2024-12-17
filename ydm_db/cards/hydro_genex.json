@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "\"Genex Controller\" + 1 or more non-Tuner WATER monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/47421985.jpg",
-    "https://images.ygoprodeck.com/images/cards/47421985.png"
+    "https://images.ygoprodeck.com/images/cards/47421985.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2300,
   "species": "Machine",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

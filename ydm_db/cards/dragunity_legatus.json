@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If you control \"Dragon Ravine\" or a \"Dragunity\" monster: You can Special Summon this card from your hand. If a \"Dragunity\" Monster Card(s) is in your Spell & Trap Zone: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of \"Dragunity Legatus\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89172051.png",
     "https://images.ygoprodeck.com/images/cards/89172051.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

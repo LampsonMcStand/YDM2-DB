@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "\"Junk Synchron\" + 1+ non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. The banished monster returns to the opponent's field during the End Phase of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42810973.png",
     "https://images.ygoprodeck.com/images/cards/42810973.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Bora the Spear\", you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/49003716.png",
     "https://images.ygoprodeck.com/images/cards/49003716.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

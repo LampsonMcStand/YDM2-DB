@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card destroys an opponent's face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87523462.jpg",
-    "https://images.ygoprodeck.com/images/cards/87523462.png"
+    "https://images.ygoprodeck.com/images/cards/87523462.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

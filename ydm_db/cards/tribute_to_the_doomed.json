@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Discard 1 card, then target 1 monster on the field; destroy it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/79759861.jpg",
-    "https://images.ygoprodeck.com/images/cards/79759861.png"
+    "https://images.ygoprodeck.com/images/cards/79759861.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Each time you gain Life Points, inflict 500 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/64752646.jpg",
-    "https://images.ygoprodeck.com/images/cards/64752646.png"
+    "https://images.ygoprodeck.com/images/cards/64752646.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",

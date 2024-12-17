@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Once per turn: You can pay 600 Life Points; detach 1 Xyz Material from a monster on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59644958.png",
     "https://images.ygoprodeck.com/images/cards/59644958.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 800,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

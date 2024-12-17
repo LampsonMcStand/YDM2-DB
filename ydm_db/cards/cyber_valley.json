@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "You can activate 1 of these effects.\n\u25cf When this card is targeted for an attack: You can banish this card; draw 1 card, then end the Battle Phase.\n\u25cf You can target 1 face-up monster you control and this card; banish both those targets, then draw 2 cards.\n\u25cf You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/3657444.jpg",
-    "https://images.ygoprodeck.com/images/cards/3657444.png"
+    "https://images.ygoprodeck.com/images/cards/3657444.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

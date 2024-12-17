@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68182934.jpg",
-    "https://images.ygoprodeck.com/images/cards/68182934.png"
+    "https://images.ygoprodeck.com/images/cards/68182934.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "monster_type": "",

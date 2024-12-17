@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Few have set eyes on this dive-bombing bird and lived to tell the tale.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/35712107.jpg",
-    "https://images.ygoprodeck.com/images/cards/35712107.png"
+    "https://images.ygoprodeck.com/images/cards/35712107.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

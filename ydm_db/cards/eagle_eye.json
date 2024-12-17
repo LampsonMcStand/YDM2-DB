@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53693416.png",
     "https://images.ygoprodeck.com/images/cards/53693416.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

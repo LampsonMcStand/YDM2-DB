@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Activate 1 of these effects.\n\u25cf Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand.\n\u25cf Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30338466.jpg",
-    "https://images.ygoprodeck.com/images/cards/30338466.png"
+    "https://images.ygoprodeck.com/images/cards/30338466.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

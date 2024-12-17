@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "FLIP: You can draw 1 card, then discard 1 card.\nOnce per turn: You can change this card to face-down Defense Position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53620899.png",
     "https://images.ygoprodeck.com/images/cards/53620899.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "Flip",
   "has_effect": true,
   "is_pendulum": false,

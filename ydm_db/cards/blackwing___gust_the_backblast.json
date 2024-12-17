@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a \"Blackwing\" monster you control: The attacking monster loses 300 ATK during the Damage Step only.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/52869807.png",
     "https://images.ygoprodeck.com/images/cards/52869807.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

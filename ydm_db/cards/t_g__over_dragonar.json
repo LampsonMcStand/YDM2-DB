@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon any number of \"T.G.\" monsters from your GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except \"T.G.\" monsters. You can only use this effect of \"T.G. Over Dragonar\" once per turn. If this card on the field is destroyed: Draw 1 card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68989420.jpg",
-    "https://images.ygoprodeck.com/images/cards/68989420.png"
+    "https://images.ygoprodeck.com/images/cards/68989420.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,
   "species": "Dragon",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

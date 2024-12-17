@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18654201.jpg",
-    "https://images.ygoprodeck.com/images/cards/18654201.png"
+    "https://images.ygoprodeck.com/images/cards/18654201.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

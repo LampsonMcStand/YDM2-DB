@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If this card is sent to the Graveyard as a Synchro Material: Inflict 500 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/37300735.jpg",
-    "https://images.ygoprodeck.com/images/cards/37300735.png"
+    "https://images.ygoprodeck.com/images/cards/37300735.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

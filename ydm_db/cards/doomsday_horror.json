@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/64379430.jpg",
-    "https://images.ygoprodeck.com/images/cards/64379430.png"
+    "https://images.ygoprodeck.com/images/cards/64379430.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

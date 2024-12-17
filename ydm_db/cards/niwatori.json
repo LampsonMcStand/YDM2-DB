@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Swallows enemies whole and uses their essence as energy.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/7805359.jpg",
-    "https://images.ygoprodeck.com/images/cards/7805359.png"
+    "https://images.ygoprodeck.com/images/cards/7805359.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 900,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

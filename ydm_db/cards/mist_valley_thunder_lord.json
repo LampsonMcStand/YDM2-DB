@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner \"Mist Valley\" monsters\nOnce per turn (Quick Effect): You can target 1 other card you control; return that target to the hand, and if you do, this card gains 500 ATK until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89310929.jpg",
-    "https://images.ygoprodeck.com/images/cards/89310929.png"
+    "https://images.ygoprodeck.com/images/cards/89310929.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2600,
   "species": "Thunder",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/28143906.jpg",
-    "https://images.ygoprodeck.com/images/cards/28143906.png"
+    "https://images.ygoprodeck.com/images/cards/28143906.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

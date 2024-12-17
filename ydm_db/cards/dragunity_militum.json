@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Once per turn: You can target 1 \"Dragunity\" card in your Spell & Trap Zone; Special Summon it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/81661951.jpg",
-    "https://images.ygoprodeck.com/images/cards/81661951.png"
+    "https://images.ygoprodeck.com/images/cards/81661951.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1700,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

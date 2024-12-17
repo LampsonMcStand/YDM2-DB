@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/24508238.jpg",
-    "https://images.ygoprodeck.com/images/cards/24508238.png"
+    "https://images.ygoprodeck.com/images/cards/24508238.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

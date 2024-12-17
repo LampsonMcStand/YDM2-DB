@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This long-tailed bird blinds its enemies with mystical light.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/75582395.png",
     "https://images.ygoprodeck.com/images/cards/75582395.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

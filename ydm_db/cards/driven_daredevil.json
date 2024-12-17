@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/93353691.jpg",
-    "https://images.ygoprodeck.com/images/cards/93353691.png"
+    "https://images.ygoprodeck.com/images/cards/93353691.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

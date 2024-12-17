@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n\u25cf Cannot be destroyed by card effects. Neither player can target this card with card effects.\n\u25cf The attacks from your opponent's monsters become direct attacks.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43803845.png",
     "https://images.ygoprodeck.com/images/cards/43803845.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 0,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "Gemini",
   "has_effect": true,
   "is_pendulum": false,

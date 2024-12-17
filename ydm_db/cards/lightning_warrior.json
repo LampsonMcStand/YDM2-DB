@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 300 damage to your opponent for each card in your opponent's hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87259077.jpg",
-    "https://images.ygoprodeck.com/images/cards/87259077.png"
+    "https://images.ygoprodeck.com/images/cards/87259077.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of \"Odd-Eyes Meteorburst Dragon\" once per turn. Your opponent cannot activate monster effects during the Battle Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/80696379.png",
     "https://images.ygoprodeck.com/images/cards/80696379.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2500,
   "species": "Dragon",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

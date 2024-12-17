@@ -5,7 +5,6 @@
   "is_custom": false,
   "text": "Once per turn, you can toss a coin 3 times and apply the appropriate effect: \u25cf 3 Heads: Destroy all monsters your opponent controls. \u25cf 2 Heads: Discard 1 random card from your opponent's hand. \u25cf 1 Head: Destroy 1 card you control. \u25cf 3 Tails: Discard your entire hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2196767.png",
     "https://images.ygoprodeck.com/images/cards/2196767.jpg"
   ],
   "type": "Monster",

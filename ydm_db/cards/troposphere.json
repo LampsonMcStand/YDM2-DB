@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/72144675.png",
     "https://images.ygoprodeck.com/images/cards/72144675.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/45815891.jpg",
-    "https://images.ygoprodeck.com/images/cards/45815891.png"
+    "https://images.ygoprodeck.com/images/cards/45815891.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Fiend",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
   "monster_type": "Synchro",

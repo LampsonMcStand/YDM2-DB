@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Neither player can Special Summon monsters, except WIND monsters.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/73356503.jpg",
-    "https://images.ygoprodeck.com/images/cards/73356503.png"
+    "https://images.ygoprodeck.com/images/cards/73356503.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

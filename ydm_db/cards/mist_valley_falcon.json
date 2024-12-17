@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Cannot declare an attack unless you return 1 card you control to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/82199284.jpg",
-    "https://images.ygoprodeck.com/images/cards/82199284.png"
+    "https://images.ygoprodeck.com/images/cards/82199284.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

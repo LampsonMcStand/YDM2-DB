@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If this card attacks a Defense Position monster while equipped with a Dragon \"Dragunity\" monster, inflict piercing battle damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/88361177.png",
     "https://images.ygoprodeck.com/images/cards/88361177.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2100,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

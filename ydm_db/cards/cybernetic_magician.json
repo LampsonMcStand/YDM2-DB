@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59023523.jpg",
-    "https://images.ygoprodeck.com/images/cards/59023523.png"
+    "https://images.ygoprodeck.com/images/cards/59023523.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

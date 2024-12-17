@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "This monster can draw its enemies into a mirror world that renders them helpless.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68870276.png",
     "https://images.ygoprodeck.com/images/cards/68870276.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

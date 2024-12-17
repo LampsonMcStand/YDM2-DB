@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card is Normal or Special Summoned: You can target 1 Winged Beast \"Dragunity\" monster you control; equip it with 1 Level 3 or lower Dragon \"Dragunity\" monster from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18060565.jpg",
-    "https://images.ygoprodeck.com/images/cards/18060565.png"
+    "https://images.ygoprodeck.com/images/cards/18060565.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

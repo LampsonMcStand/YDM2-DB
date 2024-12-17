@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nOnce per battle, if this card battles, during the Damage Step (Quick Effect): You can banish 1 Winged Beast monster from your GY; this card gains that monster's original ATK until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/900787.jpg",
-    "https://images.ygoprodeck.com/images/cards/900787.png"
+    "https://images.ygoprodeck.com/images/cards/900787.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,
   "species": "Dragon",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "The taste of victory will bowl you over.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/47558785.png",
     "https://images.ygoprodeck.com/images/cards/47558785.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "monster_type": "",

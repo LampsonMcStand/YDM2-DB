@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53981499.jpg",
-    "https://images.ygoprodeck.com/images/cards/53981499.png"
+    "https://images.ygoprodeck.com/images/cards/53981499.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

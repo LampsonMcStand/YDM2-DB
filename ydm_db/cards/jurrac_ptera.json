@@ -5,7 +5,6 @@
   "is_custom": false,
   "text": "If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster's Level x 100.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/45711266.png",
     "https://images.ygoprodeck.com/images/cards/45711266.jpg"
   ],
   "type": "Monster",

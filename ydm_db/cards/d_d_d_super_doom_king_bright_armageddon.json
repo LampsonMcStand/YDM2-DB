@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 \"D/D\" Tuner + 1+ non-Tuner \"D/D/D\" monsters\nYour opponent cannot target monsters you control with card effects. If another monster is Normal or Special Summoned while this monster is on the field (except during the Damage Step): You can make your opponent choose 1 Pendulum Monster they control, and all other monsters they currently control have their effects negated. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/72402069.png",
     "https://images.ygoprodeck.com/images/cards/72402069.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3500,
   "species": "Fiend",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "monster_type": "Synchro",
   "is_pendulum": true,

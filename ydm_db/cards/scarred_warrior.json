@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/45298492.png",
     "https://images.ygoprodeck.com/images/cards/45298492.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

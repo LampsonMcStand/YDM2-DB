@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "\"Tyhone\" + \"Wings of Wicked Flame\"",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59036972.jpg",
-    "https://images.ygoprodeck.com/images/cards/59036972.png"
+    "https://images.ygoprodeck.com/images/cards/59036972.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

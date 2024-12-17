@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nWhile you and your opponent have the same number of cards in hand, negate all cards and effects activated by your opponent, and if you do, destroy those cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/44155002.jpg",
-    "https://images.ygoprodeck.com/images/cards/44155002.png"
+    "https://images.ygoprodeck.com/images/cards/44155002.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,
   "species": "Beast",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

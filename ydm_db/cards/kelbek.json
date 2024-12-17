@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/54878498.jpg",
-    "https://images.ygoprodeck.com/images/cards/54878498.png"
+    "https://images.ygoprodeck.com/images/cards/54878498.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

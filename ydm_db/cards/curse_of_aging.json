@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Discard 1 card; all monsters your opponent currently controls lose 500 ATK/DEF until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/41398771.jpg",
-    "https://images.ygoprodeck.com/images/cards/41398771.png"
+    "https://images.ygoprodeck.com/images/cards/41398771.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

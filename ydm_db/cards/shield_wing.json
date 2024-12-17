@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Twice per turn, this card cannot be destroyed by battle.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/28859794.jpg",
-    "https://images.ygoprodeck.com/images/cards/28859794.png"
+    "https://images.ygoprodeck.com/images/cards/28859794.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

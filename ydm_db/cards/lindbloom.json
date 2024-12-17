@@ -5,7 +5,6 @@
   "is_custom": false,
   "text": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/52339733.png",
     "https://images.ygoprodeck.com/images/cards/52339733.jpg"
   ],
   "type": "Monster",

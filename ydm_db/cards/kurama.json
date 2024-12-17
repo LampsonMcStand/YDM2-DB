@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "A vicious bird that attacks from the skies with its whip-like tail.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85705804.png",
     "https://images.ygoprodeck.com/images/cards/85705804.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 800,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": false,
   "is_pendulum": false,

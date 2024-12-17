@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "Once per turn, during your next Standby Phase after this card was destroyed by card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/61441708.jpg",
-    "https://images.ygoprodeck.com/images/cards/61441708.png"
+    "https://images.ygoprodeck.com/images/cards/61441708.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2400,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

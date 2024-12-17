@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2203790.jpg",
-    "https://images.ygoprodeck.com/images/cards/2203790.png"
+    "https://images.ygoprodeck.com/images/cards/2203790.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2300,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/9897998.jpg",
-    "https://images.ygoprodeck.com/images/cards/9897998.png"
+    "https://images.ygoprodeck.com/images/cards/9897998.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

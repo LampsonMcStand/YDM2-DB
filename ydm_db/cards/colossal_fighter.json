@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nGains 100 ATK for each Warrior monster in the GYs. When this card is destroyed by battle and sent to the GY: You can target 1 Warrior monster in either GY; Special Summon that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/23693634.jpg",
-    "https://images.ygoprodeck.com/images/cards/23693634.png"
+    "https://images.ygoprodeck.com/images/cards/23693634.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

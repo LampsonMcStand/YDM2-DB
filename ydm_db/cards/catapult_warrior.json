@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can Tribute 1 \"Junk\" monster; inflict damage to your opponent equal to the original ATK of the Tributed monster.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/37474917.jpg",
-    "https://images.ygoprodeck.com/images/cards/37474917.png"
+    "https://images.ygoprodeck.com/images/cards/37474917.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

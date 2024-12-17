@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Any monster destroyed by battle is shuffled into the Deck instead of going to the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/11448373.jpg",
-    "https://images.ygoprodeck.com/images/cards/11448373.png"
+    "https://images.ygoprodeck.com/images/cards/11448373.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

@@ -5,7 +5,6 @@
   "is_custom": false,
   "text": "Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95568112.png",
     "https://images.ygoprodeck.com/images/cards/95568112.jpg"
   ],
   "type": "Monster",

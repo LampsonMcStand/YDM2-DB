@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/52687916.jpg",
-    "https://images.ygoprodeck.com/images/cards/52687916.png"
+    "https://images.ygoprodeck.com/images/cards/52687916.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2700,
   "species": "Dragon",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

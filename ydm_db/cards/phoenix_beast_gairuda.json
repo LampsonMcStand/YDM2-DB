@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43791861.png",
     "https://images.ygoprodeck.com/images/cards/43791861.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2500,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

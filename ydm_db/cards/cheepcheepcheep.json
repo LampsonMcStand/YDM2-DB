@@ -5,13 +5,12 @@
   "is_custom": false,
   "text": "FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/27189308.jpg",
-    "https://images.ygoprodeck.com/images/cards/27189308.png"
+    "https://images.ygoprodeck.com/images/cards/27189308.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 300,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "Flip",
   "has_effect": true,
   "is_pendulum": false,

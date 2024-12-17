@@ -5,14 +5,13 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to gain 1200 Life Points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/45379225.jpg",
-    "https://images.ygoprodeck.com/images/cards/45379225.png"
+    "https://images.ygoprodeck.com/images/cards/45379225.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Psychic",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",
