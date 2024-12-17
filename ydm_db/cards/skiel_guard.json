@@ -5,7 +5,8 @@
   "is_custom": true,
   "text": "If there is no \"Meklord Emperor\" monster on the field, destroy this card. Once per turn, when a monster you control is targeted for an attack: You can negate the attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/100000059.jpg"
+    "https://images.ygoprodeck.com/images/cards/100000059.jpg",
+    "https://images.ygoprodeck.com/images/cards/100000059.png"
   ],
   "type": "Monster",
   "attribute": "WIND",

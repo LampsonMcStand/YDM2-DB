@@ -5,7 +5,8 @@
   "is_custom": true,
   "text": "You can Special Summon this card (from your hand) by Tributing 1 \"Skiel Carrier\". If there is no \"Meklord Emperor\" monster on the field, destroy this card. Once per turn, when a monster you control is targeted for an attack: You can negate the attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/100000046.jpg"
+    "https://images.ygoprodeck.com/images/cards/100000046.jpg",
+    "https://images.ygoprodeck.com/images/cards/100000046.png"
   ],
   "type": "Monster",
   "attribute": "WIND",

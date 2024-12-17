@@ -5,7 +5,8 @@
   "is_custom": true,
   "text": "Target 1 monster you control; it gains 700 ATK this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/150000670.jpg"
+    "https://images.ygoprodeck.com/images/cards/150000670.jpg",
+    "https://images.ygoprodeck.com/images/cards/150000670.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"
