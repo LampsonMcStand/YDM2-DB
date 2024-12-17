@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "2 Level 5 Winged Beast-Type monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/13183454.jpg",
-    "https://images.ygoprodeck.com/images/cards/13183454.png"
+    "https://images.ygoprodeck.com/images/cards/13183454.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2500,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Xyz",
   "def": 2100,
   "rank": 5
 }

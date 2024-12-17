@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "FLIP: You can Special Summon any number of \"Black Sheep Tokens\" (Zombie/DARK/Level 1/ATK 0/DEF 0).",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/67284107.jpg",
-    "https://images.ygoprodeck.com/images/cards/67284107.png"
+    "https://images.ygoprodeck.com/images/cards/67284107.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
   "species": "Zombie",
-  "ability": "Flip",
-  "has_effect": true,
-  "is_pendulum": false,
   "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 0,
   "level": 1,
   "is_tuner": true

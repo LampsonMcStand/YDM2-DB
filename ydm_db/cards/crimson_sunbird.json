@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "\"Faith Bird\" + \"Skull Red Bird\"",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46696593.jpg",
-    "https://images.ygoprodeck.com/images/cards/46696593.png"
+    "https://images.ygoprodeck.com/images/cards/46696593.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2300,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 1800,
   "level": 6,
   "is_tuner": false

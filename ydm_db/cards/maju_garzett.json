@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/8794435.png",
     "https://images.ygoprodeck.com/images/cards/8794435.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": -1,
+  "atk": 0,
   "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 0,
   "level": 7,
   "is_tuner": false

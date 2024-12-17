@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42679662.jpg",
-    "https://images.ygoprodeck.com/images/cards/42679662.png"
+    "https://images.ygoprodeck.com/images/cards/42679662.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 750,
   "species": "Reptile",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1950,
   "level": 4,
   "is_tuner": false

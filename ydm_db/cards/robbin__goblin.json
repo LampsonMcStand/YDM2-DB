@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/88279736.jpg",
-    "https://images.ygoprodeck.com/images/cards/88279736.png"
+    "https://images.ygoprodeck.com/images/cards/88279736.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -3,10 +3,9 @@
   "name": "Wild Nature's Release",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 Beast or Beast-Warrior monster; it gains ATK equal to its current DEF (until the End Phase), and if it does, it is destroyed during the End Phase.",
+  "text": "Target 1 Beast or Beast-Warrior-Type monster; it gains ATK equal to its current DEF until the End Phase. During the End Phase, destroy it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/61166988.jpg",
-    "https://images.ygoprodeck.com/images/cards/61166988.png"
+    "https://images.ygoprodeck.com/images/cards/61166988.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/80321197.png",
     "https://images.ygoprodeck.com/images/cards/80321197.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2800,
   "species": "Warrior",
-  "ability": "Synchro",
-  "has_effect": true,
-  "is_pendulum": false,
   "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 2600,
   "level": 8,
   "is_tuner": false

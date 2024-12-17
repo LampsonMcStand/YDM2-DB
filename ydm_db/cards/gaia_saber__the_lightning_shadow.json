@@ -5,21 +5,20 @@
   "is_custom": false,
   "text": "2+ monsters",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/67598234.jpg",
-    "https://images.ygoprodeck.com/images/cards/67598234.png"
+    "https://images.ygoprodeck.com/images/cards/67598234.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Machine",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
   "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "link_rating": 3,
   "link_arrows": [
+    "Left",
     "Right",
-    "Bottom",
-    "Left"
+    "Bottom"
   ]
 }

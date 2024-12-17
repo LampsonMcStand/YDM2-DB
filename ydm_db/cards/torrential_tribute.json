@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "When a monster(s) is Summoned: Destroy all monsters on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53582587.jpg",
-    "https://images.ygoprodeck.com/images/cards/53582587.png"
+    "https://images.ygoprodeck.com/images/cards/53582587.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

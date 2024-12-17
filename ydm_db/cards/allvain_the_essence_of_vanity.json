@@ -5,18 +5,17 @@
   "is_custom": false,
   "text": "2 Normal Monsters",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/3544583.jpg",
-    "https://images.ygoprodeck.com/images/cards/3544583.png"
+    "https://images.ygoprodeck.com/images/cards/3544583.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
   "species": "Fairy",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
   "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 2100,
   "level": 2,
-  "is_tuner": true
+  "is_tuner": false
 }

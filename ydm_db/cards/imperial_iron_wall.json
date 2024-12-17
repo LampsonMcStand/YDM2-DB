@@ -5,8 +5,7 @@
   "is_custom": false,
   "text": "Neither player can banish cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30459350.jpg",
-    "https://images.ygoprodeck.com/images/cards/30459350.png"
+    "https://images.ygoprodeck.com/images/cards/30459350.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -5,17 +5,16 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nYou can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33413279.jpg",
-    "https://images.ygoprodeck.com/images/cards/33413279.png"
+    "https://images.ygoprodeck.com/images/cards/33413279.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Spellcaster",
-  "ability": "Synchro",
-  "has_effect": true,
-  "is_pendulum": false,
   "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 1800,
   "level": 6,
   "is_tuner": false
