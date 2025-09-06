@@ -11,14 +11,14 @@
   "attribute": "WIND",
   "atk": 2000,
   "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
   "monster_type": "",
   "is_pendulum": true,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2,
+  "ability": "",
+  "has_effect": true,
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
 }

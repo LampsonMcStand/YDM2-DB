@@ -11,13 +11,13 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
   "monster_type": "Xyz",
   "is_pendulum": true,
-  "pendulum_text": "Once per turn, when a monster declares an attack: You can negate that attack, then destroy this card.",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8,
+  "ability": "",
+  "has_effect": true,
   "def": 2000,
-  "rank": 4
+  "rank": 4,
+  "pendulum_text": "Once per turn, when a monster declares an attack: You can negate that attack, then destroy this card.\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
 }
