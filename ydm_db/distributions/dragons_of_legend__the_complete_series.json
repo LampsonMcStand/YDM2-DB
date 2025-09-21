@@ -1,0 +1,22 @@
+{
+  "name": "dragons_of_legend__the_complete_series",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 15,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "SAAS_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 61737116,
+      "code": "SAAS-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

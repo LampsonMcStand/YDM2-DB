@@ -1,0 +1,26 @@
+{
+  "code": "TN19_C_3",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "2019_gold_sarcophagus_tin__card_3",
+  "cards": [
+    {
+      "id": 91800273,
+      "code": "TN19-012",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+    {
+      "id": 27204311,
+      "code": "TN19-013",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+    {
+      "id": 54693926,
+      "code": "TN19-014",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

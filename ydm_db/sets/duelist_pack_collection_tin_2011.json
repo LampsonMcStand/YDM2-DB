@@ -4,25 +4,12 @@
   "type": "Tin",
   "date": "05-04-2011",
   "image": "https://ygoprodeck.com/pics_sets/DPC5.jpg",
-  "pull_type": "full",
-  "cards": [
-    {
-      "id": 95453143,
-      "code": "DPC5-EN003",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63465535,
-      "code": "DPC5-EN001",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22858242,
-      "code": "DPC5-EN002",
-      "rarity": "Super Rare",
-      "image_index": 0
-    }
+  "pull_type": "composition",
+  "sub_sets": [
+    "DP10",
+    "DP10",
+    "DP10",
+    "DREV",
+    "DPC5_C"
   ]
 }

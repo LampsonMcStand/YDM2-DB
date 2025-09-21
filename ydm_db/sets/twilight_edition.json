@@ -4,13 +4,11 @@
   "type": "Special Edition",
   "date": "05-01-2010",
   "image": "https://ygoprodeck.com/pics_sets/TWED.jpg",
-  "pull_type": "full",
-  "cards": [
-    {
-      "id": 37742478,
-      "code": "TWED-EN001",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    }
+  "pull_type": "composition",
+  "sub_sets": [
+    "LODT",
+    "PTDN",
+    "TAEV",
+    "TWED_C"
   ]
 }

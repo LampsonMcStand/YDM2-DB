@@ -1,0 +1,16 @@
+{
+  "name": "2018_mega_tins",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

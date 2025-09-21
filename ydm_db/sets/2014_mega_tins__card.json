@@ -1,0 +1,44 @@
+{
+  "code": "CT11_C",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "2014_mega_tins",
+  "cards": [
+    {
+      "id": 68371799,
+      "code": "CT11-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70355994,
+      "code": "CT11-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96381979,
+      "code": "CT11-001",
+      "rarity": "Platinum Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68601507,
+      "code": "CT11-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75840616,
+      "code": "CT11-002",
+      "rarity": "Platinum Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31320433,
+      "code": "CT11-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
