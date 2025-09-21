@@ -1,0 +1,33 @@
+{
+  "name": "speed_duel_tournament_pack",
+  "pulls": [
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

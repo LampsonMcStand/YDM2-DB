@@ -1,0 +1,28 @@
+{
+  "name": "hidden_arsenal",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 14,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Duel Terminal Normal Parallel Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Duel Terminal Ultra Parallel Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

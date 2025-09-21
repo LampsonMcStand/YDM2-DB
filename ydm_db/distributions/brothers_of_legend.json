@@ -1,0 +1,39 @@
+{
+  "name": "brothers_of_legend",
+  "pulls": [
+    {
+      "weight": 575,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

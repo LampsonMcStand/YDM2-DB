@@ -1,0 +1,34 @@
+{
+  "name": "25th_anniversary_tin__dueling_mirrors",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Quarter Century Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

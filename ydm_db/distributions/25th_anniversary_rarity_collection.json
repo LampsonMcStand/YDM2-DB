@@ -1,0 +1,125 @@
+{
+  "name": "25th_anniversary_rarity_collection",
+  "pulls": [
+    {
+      "weight": 26,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        }
+      ]
+    }
+    {
+      "weight": 12,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Platinum Secret Rare",
+            "Quarter Century Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        }
+      ]
+    }
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Platinum Secret Rare",
+            "Quarter Century Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        }
+      ]
+    }
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Platinum Secret Rare",
+            "Quarter Century Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Platinum Secret Rare",
+            "Quarter Century Secret Rare",
+            "Ultimate Rare",
+            "Collector's Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

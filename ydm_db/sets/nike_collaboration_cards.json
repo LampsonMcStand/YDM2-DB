@@ -1,0 +1,28 @@
+{
+  "name": "Nike collaboration cards",
+  "code": "NKC1",
+  "type": "Promotional Cards",
+  "date": "12-09-2025",
+  "image": "https://ygoprodeck.com/pics_sets/NKC1.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 37301660,
+      "code": "NKC1-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+    {
+      "id": 00212652,
+      "code": "NKC1-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+    {
+      "id": 74677422,
+      "code": "NKC1-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

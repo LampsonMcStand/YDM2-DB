@@ -1,0 +1,28 @@
+{
+  "name": "battles_of_legend__chapter_1",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 15,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

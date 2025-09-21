@@ -1,0 +1,40 @@
+{
+  "name": "2020_tin_of_lost_memeories_mega_pack",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 12,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

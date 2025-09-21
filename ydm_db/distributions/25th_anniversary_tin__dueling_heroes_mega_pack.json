@@ -1,0 +1,40 @@
+{
+  "name": "25th_anniversary_tin__dueling_heroes_mega_pack",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 12,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

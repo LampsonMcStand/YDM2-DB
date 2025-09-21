@@ -1,0 +1,22 @@
+{
+  "name": "Hidden Arsenal: Special Edition",
+  "code": "HASE",
+  "type": "Special Edition",
+  "date": "12-06-2011",
+  "image": "https://ygoprodeck.com/pics_sets/HASE.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 7304544,
+      "code": "HASE-EN002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42737833,
+      "code": "HASE-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
