@@ -2,7 +2,7 @@
   "name": "duels_from_the_deep",
   "pulls": [
     {
-      "weight": 924,
+      "weight": 984,
       "entries": [
         {
           "count": 4,
@@ -66,32 +66,6 @@
           "count": 1,
           "rarities": [
             "Ultra Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 60,
-      "entries": [
-        {
-          "count": 3,
-          "rarities": [
-            "Common",
-            "Short Print",
-            "Super Short Print"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Rare"
-          ]
-        },
-        {
-          "count": 1,
-          "rarities": [
-            "Secret Rare",
-            "Ultimate Rare"
           ]
         }
       ]

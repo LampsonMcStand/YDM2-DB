@@ -4,19 +4,11 @@
   "type": "Special Edition",
   "date": "30-03-2012",
   "image": "https://ygoprodeck.com/pics_sets/H5SE.jpg",
-  "pull_type": "full",
-  "cards": [
-    {
-      "id": 50321796,
-      "code": "H5SE-EN001",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 65749035,
-      "code": "H5SE-EN002",
-      "rarity": "Super Rare",
-      "image_index": 0
-    }
+  "pull_type": "composition",
+  "sub_sets": [
+    "HA05",
+    "HA05",
+    "HA05",
+    "H5SE_C"
   ]
 }
