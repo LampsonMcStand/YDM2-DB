@@ -1,0 +1,34 @@
+{
+  "name": "2025_mega_pack",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

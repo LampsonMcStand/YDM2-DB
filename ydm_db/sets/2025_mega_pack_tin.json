@@ -1,0 +1,13 @@
+{
+  "name": "2025 Mega Pack Tin",
+  "code": "MP25_T",
+  "type": "Tin",
+  "date": "05-09-2025",
+  "image": "https://ygoprodeck.com/pics_sets/MP25.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP25",
+    "MP25",
+    "MP25"
+  ]
+}
