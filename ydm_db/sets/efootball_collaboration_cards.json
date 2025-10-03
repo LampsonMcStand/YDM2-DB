@@ -1,0 +1,16 @@
+{
+  "name": "eFootball Collaboration Cards",
+  "code": "EFC1",
+  "type": "Promotional Card",
+  "date": "27-09-2025",
+  "image": "",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 85138716,
+      "code": "EFC1-EN001",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 1
+    }
+  ]
+}
