@@ -7,6 +7,23 @@
         {
           "count": 2,
           "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
             "Super Rare"
           ]
         }
@@ -18,7 +35,7 @@
         {
           "count": 1,
           "rarities": [
-            "Super Rare"
+            "Common"
           ]
         },
         {

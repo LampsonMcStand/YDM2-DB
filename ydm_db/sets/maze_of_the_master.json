@@ -5,7 +5,7 @@
   "date": "13-03-2025",
   "image": "https://ygoprodeck.com/pics_sets/MZTM.jpg",
   "pull_type": "distribution",
-  "distribution": "crossover_breakers",
+  "distribution": "maze_of_the_master",
   "cards": [
     {
       "id": 75926389,
@@ -22,7 +22,7 @@
     {
       "id": 68316358,
       "code": "MZTM-EN060",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": 31539614,
       "code": "MZTM-EN048",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -112,19 +112,19 @@
     {
       "id": 69873498,
       "code": "MZTM-EN043",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 7150545,
       "code": "MZTM-EN046",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 33506331,
       "code": "MZTM-EN039",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 7102732,
       "code": "MZTM-EN038",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -172,13 +172,13 @@
     {
       "id": 22082432,
       "code": "MZTM-EN008",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 96687733,
       "code": "MZTM-EN007",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -352,7 +352,7 @@
     {
       "id": 44466810,
       "code": "MZTM-EN017",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -364,7 +364,7 @@
     {
       "id": 99176254,
       "code": "MZTM-EN031",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -436,7 +436,7 @@
     {
       "id": 6812770,
       "code": "MZTM-EN052",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -466,13 +466,13 @@
     {
       "id": 34323367,
       "code": "MZTM-EN050",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 70417076,
       "code": "MZTM-EN051",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -490,7 +490,7 @@
     {
       "id": 32044231,
       "code": "MZTM-EN056",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -532,13 +532,13 @@
     {
       "id": 71939275,
       "code": "MZTM-EN034",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 8324284,
       "code": "MZTM-EN035",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -586,13 +586,13 @@
     {
       "id": 72705654,
       "code": "MZTM-EN012",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 71083002,
       "code": "MZTM-EN015",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -682,7 +682,7 @@
     {
       "id": 64804137,
       "code": "MZTM-EN027",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -694,7 +694,7 @@
     {
       "id": 63181559,
       "code": "MZTM-EN030",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -766,13 +766,13 @@
     {
       "id": 6355563,
       "code": "MZTM-EN019",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 33744268,
       "code": "MZTM-EN020",
-      "rarity": "New",
+      "rarity": "Rare",
       "image_index": 0
     }
   ]

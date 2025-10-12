@@ -8,7 +8,7 @@
   "sub_sets": [
     "PGD",
     "MFC",
-    "DRC",
+    "DCR",
     "AST",
     "EP1",
     "MC2_C"
