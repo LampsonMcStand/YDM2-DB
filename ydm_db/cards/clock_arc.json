@@ -18,7 +18,7 @@
   "def": 1200,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "",
+  "pendulum_text": "If you control no monsters, or only Pendulum Monsters, apply this effect, based on this card's Pendulum Zone.\n● Left: Reduce its Pendulum Scale by 3.\n● Right: Increase its Pendulum Scale by 4.\nDuring your opponent's Standby Phase: You can Special Summon this card.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }
