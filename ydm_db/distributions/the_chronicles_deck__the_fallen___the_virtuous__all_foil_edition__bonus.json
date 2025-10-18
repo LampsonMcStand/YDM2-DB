@@ -1,0 +1,27 @@
+{
+  "name": "the_chronicles_deck__the_fallen___the_virtuous__all_foil_edition__bonus",
+  "pulls": [
+    {
+      "weight": 7,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
