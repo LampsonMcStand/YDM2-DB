@@ -1,13 +1,12 @@
 {
-  "name": "Duelist Saga",
-  "code": "DUSA",
+  "name": "Duelist Saga (Pack)",
+  "code": "DUSA_P",
   "type": "Booster Pack (Misc.)",
   "date": "30-03-2017",
   "image": "https://ygoprodeck.com/pics_sets/DUSA.jpg",
   "pull_type": "composition",
   "sub_sets": [
-    "DUSA_P",
-    "DUSA_P",
-    "DUSA_P"
+    "DUSA_1",
+    "DUSA_2"
   ]
 }
