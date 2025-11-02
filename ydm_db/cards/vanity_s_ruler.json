@@ -3,7 +3,7 @@
   "name": "Vanity's Ruler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
+  "text": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72634965.jpg"
   ],

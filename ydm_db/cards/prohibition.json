@@ -3,7 +3,7 @@
   "name": "Prohibition",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+  "text": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards)./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43711255.jpg"
   ],

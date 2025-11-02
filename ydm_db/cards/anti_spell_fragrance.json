@@ -3,7 +3,7 @@
   "name": "Anti-Spell Fragrance",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
+  "text": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.\n\nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58921041.jpg"
   ],

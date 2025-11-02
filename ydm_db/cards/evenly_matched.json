@@ -3,7 +3,7 @@
   "name": "Evenly Matched",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand.",
+  "text": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. If you control no cards, you can activate this card from your hand./n/nPoints:10",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15693423.jpg"
   ],

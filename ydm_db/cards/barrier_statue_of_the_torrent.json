@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Torrent",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can Special Summon monsters, except WATER monsters.",
+  "text": "Neither player can Special Summon monsters, except WATER monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10963799.jpg"
   ],

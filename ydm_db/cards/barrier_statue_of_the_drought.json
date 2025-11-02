@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Drought",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for EARTH monsters.",
+  "text": "No monsters can be Special Summoned, except for EARTH monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19740112.jpg"
   ],

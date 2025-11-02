@@ -3,7 +3,7 @@
   "name": "Mind Drain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated.",
+  "text": "Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68937720.jpg"
   ],

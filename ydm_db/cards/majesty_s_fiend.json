@@ -3,7 +3,7 @@
   "name": "Majesty's Fiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Neither player can activate monster effects.",
+  "text": "Cannot be Special Summoned. Neither player can activate monster effects./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33746252.jpg"
   ],

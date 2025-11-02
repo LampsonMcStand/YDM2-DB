@@ -3,7 +3,7 @@
   "name": "Dimension Shifter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead.",
+  "text": "If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead./n/nPoints:10",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91800273.jpg"
   ],

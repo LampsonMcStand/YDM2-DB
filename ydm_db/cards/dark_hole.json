@@ -3,7 +3,7 @@
   "name": "Dark Hole",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all monsters on the field.",
+  "text": "Destroy all monsters on the field./n/nPoints:3",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53129443.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Vanity's Fiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+  "text": "Cannot be Special Summoned. Neither player can Special Summon monsters./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47084486.jpg"
   ],

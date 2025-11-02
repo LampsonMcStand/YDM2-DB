@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Abyss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for DARK monsters.",
+  "text": "No monsters can be Special Summoned, except for DARK monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84478195.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Graceful Charity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Draw 3 cards, then discard 2 cards.",
+  "text": "Draw 3 cards, then discard 2 cards./n/nPoints:40",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79571449.jpg"
   ],

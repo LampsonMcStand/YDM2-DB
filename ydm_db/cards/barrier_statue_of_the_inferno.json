@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Inferno",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can Special Summon monsters, except FIRE monsters.",
+  "text": "Neither player can Special Summon monsters, except FIRE monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47961808.jpg"
   ],

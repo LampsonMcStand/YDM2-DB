@@ -3,7 +3,7 @@
   "name": "Mistake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can add cards from their Deck to their hand except by drawing them.",
+  "text": "Neither player can add cards from their Deck to their hand except by drawing them./n/nPoints:100",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59305593.jpg"
   ],

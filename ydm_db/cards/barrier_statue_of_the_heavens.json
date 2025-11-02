@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Heavens",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for LIGHT monsters.",
+  "text": "No monsters can be Special Summoned, except for LIGHT monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46145256.jpg"
   ],

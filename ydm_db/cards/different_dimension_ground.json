@@ -3,7 +3,7 @@
   "name": "Different Dimension Ground",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This turn, any monster sent to the GY is banished instead.",
+  "text": "This turn, any monster sent to the GY is banished instead./n/nPoints:10",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31849106.jpg"
   ],

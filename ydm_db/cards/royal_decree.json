@@ -3,7 +3,7 @@
   "name": "Royal Decree",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate all other Trap effects on the field.",
+  "text": "Negate all other Trap effects on the field./n/nPoints:10",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51452091.jpg"
   ],

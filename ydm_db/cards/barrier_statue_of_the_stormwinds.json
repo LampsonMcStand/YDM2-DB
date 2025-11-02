@@ -3,7 +3,7 @@
   "name": "Barrier Statue of the Stormwinds",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for WIND monsters.",
+  "text": "No monsters can be Special Summoned, except for WIND monsters.\n\nPoints:70",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73356503.jpg"
   ],
