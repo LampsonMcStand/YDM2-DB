@@ -18,7 +18,7 @@
   "def": 1900,
   "level": 9,
   "is_tuner": false,
-  "pendulum_text": "If a monster(s) you control is destroyed by card effect (except during the Damage Step): You can add 1 \"Metalfoes\" card from your GY to your hand, except \"Metalfoes Vanisher\". You can only use this effect of \"Metalfoes Vanisher\" once per turn.",
+  "pendulum_text": "",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }
