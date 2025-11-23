@@ -5,7 +5,9 @@
   "is_custom": false,
   "text": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/32274490.jpg"
+    "https://images.ygoprodeck.com/images/cards/32274490.jpg",
+    "https://ms.yugipedia.com//c/c4/SkullServant-BLMM-EN-ScR-1E.png",
+    "https://ms.yugipedia.com//c/c6/SkullServant-LPST-JP-OP.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

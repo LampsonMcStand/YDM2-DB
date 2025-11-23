@@ -5,7 +5,9 @@
   "is_custom": false,
   "text": "Destroy all monsters your opponent controls.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/12580477.jpg"
+    "https://images.ygoprodeck.com/images/cards/12580477.jpg",
+    "https://yugi.wiki/assets/card-images/common/12580478.jpg",
+    "https://ms.yugipedia.com//3/36/Raigeki-LPST-JP-OP.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

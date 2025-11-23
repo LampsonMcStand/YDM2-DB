@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/67169062.jpg"
+    "https://images.ygoprodeck.com/images/cards/67169062.jpg",
+    "https://ms.yugipedia.com//2/25/PotofAvarice-LPST-JP-OP.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

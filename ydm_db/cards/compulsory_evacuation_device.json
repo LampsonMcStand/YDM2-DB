@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 monster on the field; return that target to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/94192409.jpg"
+    "https://images.ygoprodeck.com/images/cards/94192409.jpg",
+    "https://ms.yugipedia.com//3/35/CompulsoryEvacuationDevice-LPST-JP-OP.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

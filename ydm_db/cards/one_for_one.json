@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2295440.jpg"
+    "https://images.ygoprodeck.com/images/cards/2295440.jpg",
+    "https://yugi.wiki/assets/card-images/common/2295441.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"
