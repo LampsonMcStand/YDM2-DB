@@ -1,0 +1,875 @@
+{
+  "name": "Limited Pack: Stamp Edition",
+  "code": "LPST",
+  "type": "Booster Pack",
+  "date": "13-12-2025",
+  "image": "https://ms.yugipedia.com//4/4f/LPST-BoosterJP.png",
+  "pull_type": "distribution",
+  "distribution": "limited_pack__stamp_edition",
+  "cards": [
+    {
+      "id": 46986414,
+      "code": "LPST-JP001",
+      "rarity": "Ultra Rare",
+      "image_index": 16
+    },
+    {
+      "id": 46986414,
+      "code": "LPST-JP001",
+      "rarity": "Secret Rare",
+      "image_index": 16
+    },
+    {
+      "id": 46986414,
+      "code": "LPST-JP001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 16
+    },
+    {
+      "id": 38033121,
+      "code": "LPST-JP002",
+      "rarity": "Ultra Rare",
+      "image_index": 11
+    },
+    {
+      "id": 38033121,
+      "code": "LPST-JP002",
+      "rarity": "Secret Rare",
+      "image_index": 11
+    },
+    {
+      "id": 38033121,
+      "code": "LPST-JP002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 11
+    },
+    {
+      "id": 89631139,
+      "code": "LPST-JP003",
+      "rarity": "Ultra Rare",
+      "image_index": 16
+    },
+    {
+      "id": 89631139,
+      "code": "LPST-JP003",
+      "rarity": "Secret Rare",
+      "image_index": 16
+    },
+    {
+      "id": 89631139,
+      "code": "LPST-JP003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 16
+    },
+    {
+      "id": 74677422,
+      "code": "LPST-JP004",
+      "rarity": "Ultra Rare",
+      "image_index": 10
+    },
+    {
+      "id": 74677422,
+      "code": "LPST-JP004",
+      "rarity": "Secret Rare",
+      "image_index": 10
+    },
+    {
+      "id": 74677422,
+      "code": "LPST-JP004",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 10
+    },
+    {
+      "id": 32274490,
+      "code": "LPST-JP005",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 32274490,
+      "code": "LPST-JP005",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 32274490,
+      "code": "LPST-JP005",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 17955766,
+      "code": "LPST-JP006",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 17955766,
+      "code": "LPST-JP006",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 17955766,
+      "code": "LPST-JP006",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 23434538,
+      "code": "LPST-JP007",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 23434538,
+      "code": "LPST-JP007",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 23434538,
+      "code": "LPST-JP007",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 10802915,
+      "code": "LPST-JP008",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 10802915,
+      "code": "LPST-JP008",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 10802915,
+      "code": "LPST-JP008",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 14558127,
+      "code": "LPST-JP009",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 14558127,
+      "code": "LPST-JP009",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 14558127,
+      "code": "LPST-JP009",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 73642296,
+      "code": "LPST-JP010",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 73642296,
+      "code": "LPST-JP010",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 73642296,
+      "code": "LPST-JP010",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 26077387,
+      "code": "LPST-JP011",
+      "rarity": "Ultra Rare",
+      "image_index": 3
+    },
+    {
+      "id": 26077387,
+      "code": "LPST-JP011",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 26077387,
+      "code": "LPST-JP011",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 27204311,
+      "code": "LPST-JP012",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 27204311,
+      "code": "LPST-JP012",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 27204311,
+      "code": "LPST-JP012",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 13171876,
+      "code": "LPST-JP013",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 13171876,
+      "code": "LPST-JP013",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 13171876,
+      "code": "LPST-JP013",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 52038441,
+      "code": "LPST-JP014",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 52038441,
+      "code": "LPST-JP014",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 52038441,
+      "code": "LPST-JP014",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 95440946,
+      "code": "LPST-JP015",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 95440946,
+      "code": "LPST-JP015",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 95440946,
+      "code": "LPST-JP015",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 56196385,
+      "code": "LPST-JP016",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56196385,
+      "code": "LPST-JP016",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56196385,
+      "code": "LPST-JP016",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2347656,
+      "code": "LPST-JP017",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2347656,
+      "code": "LPST-JP017",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2347656,
+      "code": "LPST-JP017",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25592142,
+      "code": "LPST-JP018",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25592142,
+      "code": "LPST-JP018",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25592142,
+      "code": "LPST-JP018",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 52687916,
+      "code": "LPST-JP019",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 52687916,
+      "code": "LPST-JP019",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 52687916,
+      "code": "LPST-JP019",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 28403802,
+      "code": "LPST-JP020",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 28403802,
+      "code": "LPST-JP020",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 28403802,
+      "code": "LPST-JP020",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 90448279,
+      "code": "LPST-JP021",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 90448279,
+      "code": "LPST-JP021",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 90448279,
+      "code": "LPST-JP021",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 73639099,
+      "code": "LPST-JP022",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 73639099,
+      "code": "LPST-JP022",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 73639099,
+      "code": "LPST-JP022",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 65741786,
+      "code": "LPST-JP023",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 65741786,
+      "code": "LPST-JP023",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 65741786,
+      "code": "LPST-JP023",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 50277355,
+      "code": "LPST-JP024",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 50277355,
+      "code": "LPST-JP024",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 50277355,
+      "code": "LPST-JP024",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2772337,
+      "code": "LPST-JP025",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2772337,
+      "code": "LPST-JP025",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 2772337,
+      "code": "LPST-JP025",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 83764718,
+      "code": "LPST-JP026",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 83764718,
+      "code": "LPST-JP026",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 83764718,
+      "code": "LPST-JP026",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 72302403,
+      "code": "LPST-JP027",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 72302403,
+      "code": "LPST-JP027",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 72302403,
+      "code": "LPST-JP027",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 12580477,
+      "code": "LPST-JP028",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 12580477,
+      "code": "LPST-JP028",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 12580477,
+      "code": "LPST-JP028",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 73915051,
+      "code": "LPST-JP029",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 73915051,
+      "code": "LPST-JP029",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 73915051,
+      "code": "LPST-JP029",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5318639,
+      "code": "LPST-JP030",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5318639,
+      "code": "LPST-JP030",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 5318639,
+      "code": "LPST-JP030",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 32807846,
+      "code": "LPST-JP031",
+      "rarity": "Ultra Rare",
+      "image_index": 3
+    },
+    {
+      "id": 32807846,
+      "code": "LPST-JP031",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 32807846,
+      "code": "LPST-JP031",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 67169062,
+      "code": "LPST-JP032",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 67169062,
+      "code": "LPST-JP032",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 67169062,
+      "code": "LPST-JP032",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25789292,
+      "code": "LPST-JP033",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25789292,
+      "code": "LPST-JP033",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 25789292,
+      "code": "LPST-JP033",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 47325505,
+      "code": "LPST-JP034",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 47325505,
+      "code": "LPST-JP034",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 47325505,
+      "code": "LPST-JP034",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 24224830,
+      "code": "LPST-JP035",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 24224830,
+      "code": "LPST-JP035",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 24224830,
+      "code": "LPST-JP035",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 65681983,
+      "code": "LPST-JP036",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 65681983,
+      "code": "LPST-JP036",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 65681983,
+      "code": "LPST-JP036",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 39568067,
+      "code": "LPST-JP037",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 39568067,
+      "code": "LPST-JP037",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 39568067,
+      "code": "LPST-JP037",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 29599813,
+      "code": "LPST-JP038",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 29599813,
+      "code": "LPST-JP038",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 29599813,
+      "code": "LPST-JP038",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56787189,
+      "code": "LPST-JP039",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56787189,
+      "code": "LPST-JP039",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 56787189,
+      "code": "LPST-JP039",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41371602,
+      "code": "LPST-JP040",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41371602,
+      "code": "LPST-JP040",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41371602,
+      "code": "LPST-JP040",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 62279055,
+      "code": "LPST-JP041",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 62279055,
+      "code": "LPST-JP041",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 62279055,
+      "code": "LPST-JP041",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41420027,
+      "code": "LPST-JP042",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41420027,
+      "code": "LPST-JP042",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 41420027,
+      "code": "LPST-JP042",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 94192409,
+      "code": "LPST-JP043",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 94192409,
+      "code": "LPST-JP043",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 94192409,
+      "code": "LPST-JP043",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 84749824,
+      "code": "LPST-JP044",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 84749824,
+      "code": "LPST-JP044",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 84749824,
+      "code": "LPST-JP044",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 42705243,
+      "code": "LPST-JP045",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 42705243,
+      "code": "LPST-JP045",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 42705243,
+      "code": "LPST-JP045",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 10000020,
+      "code": "LPST-JP046",
+      "rarity": "Ultra Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000020,
+      "code": "LPST-JP046",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000020,
+      "code": "LPST-JP046",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000000,
+      "code": "LPST-JP047",
+      "rarity": "Ultra Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000000,
+      "code": "LPST-JP047",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000000,
+      "code": "LPST-JP047",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000010,
+      "code": "LPST-JP048",
+      "rarity": "Ultra Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000010,
+      "code": "LPST-JP048",
+      "rarity": "Secret Rare",
+      "image_index": 3
+    },
+    {
+      "id": 10000010,
+      "code": "LPST-JP048",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 3
+    },
+  ]
+}
