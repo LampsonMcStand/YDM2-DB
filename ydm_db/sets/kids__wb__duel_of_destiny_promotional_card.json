@@ -1,0 +1,16 @@
+{
+  "name": "Kids' WB! Duel of Destiny promotional card",
+  "code": "EPK1",
+  "type": "Promotional Card",
+  "date": "15-05-2004",
+  "image": "https://ms.yugipedia.com//1/17/KidsWBPromoLetter.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 42664989,
+      "code": "EP1-EN000",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
