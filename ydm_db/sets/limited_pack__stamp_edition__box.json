@@ -1,0 +1,20 @@
+{
+  "name": "Limited Pack: Stamp Edition (Box)",
+  "code": "LPST_B",
+  "type": "Booster Pack",
+  "date": "13-12-2025",
+  "image": "https://ms.yugipedia.com//4/4f/LPST-BoosterJP.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST",
+    "LPST"
+  ]
+}
