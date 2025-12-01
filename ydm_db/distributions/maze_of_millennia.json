@@ -1,0 +1,97 @@
+{
+  "name": "maze_of_millennia",
+  "pulls": [
+    {
+      "weight": 474,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 96,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 5,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Quarter Century Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

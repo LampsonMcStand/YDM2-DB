@@ -2,7 +2,7 @@
   "name": "limited_pack__stamp_edition",
   "pulls": [
     {
-      "weight": 113440,
+      "weight": 14180,
       "entries": [
         {
           "count": 4,
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "weight": 82944,
+      "weight": 10368,
       "entries": [
         {
           "count": 3,
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "weight": 20736,
+      "weight": 2592,
       "entries": [
         {
           "count": 2,
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "weight": 5184,
+      "weight": 648,
       "entries": [
         {
           "count": 1,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "weight": 1296,
+      "weight": 162,
       "entries": [
         {
           "count": 4,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "weight": 55296,
+      "weight": 6912,
       "entries": [
         {
           "count": 3,
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "weight": 9216,
+      "weight": 1152,
       "entries": [
         {
           "count": 2,
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "weight": 1536,
+      "weight": 192,
       "entries": [
         {
           "count": 1,
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "weight": 256,
+      "weight": 32,
       "entries": [
         {
           "count": 4,
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "weight": 13824,
+      "weight": 1728,
       "entries": [
         {
           "count": 2,
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "weight": 3496,
+      "weight": 437,
       "entries": [
         {
           "count": 1,
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "weight": 864,
+      "weight": 108,
       "entries": [
         {
           "count": 3,
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "weight": 2304,
+      "weight": 288,
       "entries": [
         {
           "count": 1,
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "weight": 384,
+      "weight": 48,
       "entries": [
         {
           "count": 1,
