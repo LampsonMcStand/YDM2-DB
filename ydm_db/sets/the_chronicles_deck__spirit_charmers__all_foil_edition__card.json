@@ -1,0 +1,307 @@
+{
+  "code": "CH02_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 74364659,
+      "code": "CH01-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 759393,
+      "code": "CH01-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37744402,
+      "code": "CH01-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37970940,
+      "code": "CH01-EN004",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+    {
+      "id": 68881649,
+      "code": "CH01-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 4376658,
+      "code": "CH01-EN006",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 31764353,
+      "code": "CH01-EN007",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 31887905,
+      "code": "CH01-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 15746348,
+      "code": "CH01-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76615300,
+      "code": "CH01-EN010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86395581,
+      "code": "CH01-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62803464,
+      "code": "CH01-EN012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40894584,
+      "code": "CH01-EN013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62953041,
+      "code": "CH01-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44680819,
+      "code": "CH01-EN015",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60666820,
+      "code": "CH01-EN016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74426895,
+      "code": "CH01-EN017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92652813,
+      "code": "CH01-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 410904,
+      "code": "CH01-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65268179,
+      "code": "CH01-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9822220,
+      "code": "CH01-EN021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84941194,
+      "code": "CH01-EN022",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11335209,
+      "code": "CH01-EN023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47330808,
+      "code": "CH01-EN024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74725513,
+      "code": "CH01-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86937530,
+      "code": "CH01-EN026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14824019,
+      "code": "CH01-EN027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11911336,
+      "code": "CH01-EN028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91530236,
+      "code": "CH01-EN029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38057522,
+      "code": "CH01-EN030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62256492,
+      "code": "CH01-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89739383,
+      "code": "CH01-EN032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23314220,
+      "code": "CH01-EN033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11827244,
+      "code": "CH01-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54693926,
+      "code": "CH01-EN035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19739265,
+      "code": "CH01-EN036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16528181,
+      "code": "CH01-EN037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65046521,
+      "code": "CH01-EN038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25704359,
+      "code": "CH01-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44822037,
+      "code": "CH01-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48016074,
+      "code": "CH01-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73309655,
+      "code": "CH01-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48815792,
+      "code": "CH01-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30674956,
+      "code": "CH01-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97661969,
+      "code": "CH01-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84433295,
+      "code": "CH01-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73082255,
+      "code": "CH01-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1528054,
+      "code": "CH01-EN048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45819647,
+      "code": "CH01-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86066372,
+      "code": "CH01-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

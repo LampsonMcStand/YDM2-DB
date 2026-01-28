@@ -1,0 +1,12 @@
+{
+  "name": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+  "code": "CH02",
+  "type": "Structure Deck",
+  "date": "23-10-2025",
+  "image": "https://ms.yugipedia.com//3/3a/CH02-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CH02_C",
+    "CH02_B"
+  ]
+}

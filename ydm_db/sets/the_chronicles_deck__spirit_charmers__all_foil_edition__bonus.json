@@ -1,0 +1,80 @@
+{
+  "code": "CH02_B",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "the_chronicles_deck__the_fallen___the_virtuous__all_foil_edition__bonus",
+  "cards": [
+    {
+      "id": 74364659,
+      "code": "CH01-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 74364659,
+      "code": "CH01-EN001",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 759393,
+      "code": "CH01-EN002",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 759393,
+      "code": "CH01-EN002",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37744402,
+      "code": "CH01-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37744402,
+      "code": "CH01-EN003",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37970940,
+      "code": "CH01-EN004",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 37970940,
+      "code": "CH01-EN004",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 11911336,
+      "code": "CH01-EN028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11911336,
+      "code": "CH01-EN028",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48016074,
+      "code": "CH01-EN041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48016074,
+      "code": "CH01-EN041",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}
