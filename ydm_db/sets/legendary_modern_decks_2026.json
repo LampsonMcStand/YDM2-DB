@@ -1,0 +1,14 @@
+{
+  "name": "Legendary Modern Decks 2026",
+  "code": "L26D",
+  "type": "Collector's Set",
+  "date": "23-10-2025",
+  "image": "https://images.ygoprodeck.com/images/sets/L26D.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "L26D_C",
+    "L26D_S",
+    "L26D_M",
+    "L26D_X"
+  ]
+}

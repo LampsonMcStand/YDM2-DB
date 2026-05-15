@@ -1,0 +1,27 @@
+{
+  "name": "rarity_collection_5_variant_art",
+  "pulls": [
+    {
+      "weight": 5,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

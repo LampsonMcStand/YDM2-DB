@@ -1,0 +1,80 @@
+{
+  "code": "L26D_S",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "the_chronicles_deck__the_fallen___the_virtuous__all_foil_edition__bonus",
+  "cards": [
+    {
+      "id": 26077387,
+      "code": "L26D-ENS01",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 26077387,
+      "code": "L26D-ENS01",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 32807846,
+      "code": "L26D-ENS08",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "L26D-ENS08",
+      "rarity": "Starlight Rare",
+      "image_index": 2
+    },
+    {
+      "id": 63166095,
+      "code": "L26D-ENS10",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 63166095,
+      "code": "L26D-ENS10",
+      "rarity": "Starlight Rare",
+      "image_index": 1
+    },
+    {
+      "id": 90673288,
+      "code": "L26D-ENS26",
+      "rarity": "Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 90673288,
+      "code": "L26D-ENS26",
+      "rarity": "Starlight Rare",
+      "image_index": 1
+    },
+    {
+      "id": 63013339,
+      "code": "L26D-ENS31",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63013339,
+      "code": "L26D-ENS31",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17217034,
+      "code": "L26D-ENS33",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17217034,
+      "code": "L26D-ENS33",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}
