@@ -1,0 +1,305 @@
+{
+  "name": "Ultimate Tournament Pack 1",
+  "code": "UP01",
+  "type": "Ultimate Tournament Pack",
+  "date": "18-06-2026",
+  "image": "https://ygoprodeck.com/pics_sets/UP01.jpg",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
+  "cards": [
+    {
+      "id": 40737112,
+      "code": "UP01-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88264978,
+      "code": "UP01-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "UP01-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97556336,
+      "code": "UP01-004",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49238328,
+      "code": "UP01-005",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30271097,
+      "code": "UP01-006",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55878038,
+      "code": "UP01-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96540807,
+      "code": "UP01-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12500059,
+      "code": "UP01-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35763582,
+      "code": "UP01-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26329679,
+      "code": "UP01-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40673853,
+      "code": "UP01-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75652080,
+      "code": "UP01-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45141013,
+      "code": "UP01-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49511705,
+      "code": "UP01-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71564252,
+      "code": "UP01-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34755994,
+      "code": "UP01-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13048472,
+      "code": "UP01-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25542642,
+      "code": "UP01-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31786629,
+      "code": "UP01-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73125233,
+      "code": "UP01-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78868119,
+      "code": "UP01-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59755122,
+      "code": "UP01-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41386308,
+      "code": "UP01-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40672993,
+      "code": "UP01-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67284107,
+      "code": "UP01-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15180041,
+      "code": "UP01-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41175645,
+      "code": "UP01-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86120751,
+      "code": "UP01-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66722103,
+      "code": "UP01-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25538345,
+      "code": "UP01-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33750025,
+      "code": "UP01-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87462901,
+      "code": "UP01-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37926346,
+      "code": "UP01-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98978921,
+      "code": "UP01-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35334193,
+      "code": "UP01-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "UP01-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "UP01-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85852291,
+      "code": "UP01-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81674782,
+      "code": "UP01-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38179121,
+      "code": "UP01-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25789292,
+      "code": "UP01-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79844764,
+      "code": "UP01-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54693926,
+      "code": "UP01-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91957038,
+      "code": "UP01-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26237713,
+      "code": "UP01-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "UP01-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85742772,
+      "code": "UP01-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74003290,
+      "code": "UP01-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+  ]
+}
