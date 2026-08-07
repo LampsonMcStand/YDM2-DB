@@ -1,0 +1,80 @@
+{
+  "code": "LAVD_O",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "the_chronicles_deck__the_fallen___the_virtuous__all_foil_edition__bonus",
+  "cards": [
+    {
+      "id": 17330916,
+      "code": "LAVD-ENO04",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17330916,
+      "code": "LAVD-ENO04",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4836680,
+      "code": "LAVD-ENO17",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4836680,
+      "code": "LAVD-ENO17",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27813661,
+      "code": "LAVD-ENO19",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27813661,
+      "code": "LAVD-ENO19",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29325276,
+      "code": "LAVD-ENO26",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29325276,
+      "code": "LAVD-ENO26",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22125101,
+      "code": "LAVD-ENO35",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22125101,
+      "code": "LAVD-ENO35",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58083496,
+      "code": "LAVD-ENO38",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58083496,
+      "code": "LAVD-ENO38",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

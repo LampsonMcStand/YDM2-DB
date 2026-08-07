@@ -1,0 +1,14 @@
+{
+  "name": "Legendary Arc-V Decks 2026",
+  "code": "LAVD",
+  "type": "Collector's Set",
+  "date": "06-08-2026",
+  "image": "https://images.ygoprodeck.com/images/sets/LAVD.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LAVD_C",
+    "LAVD_O",
+    "LAVD_L",
+    "LAVD_S"
+  ]
+}
