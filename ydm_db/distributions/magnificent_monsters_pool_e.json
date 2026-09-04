@@ -1,0 +1,16 @@
+{
+  "name": "magnificent_monsters_pool_e",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

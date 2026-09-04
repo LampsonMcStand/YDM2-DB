@@ -1,0 +1,27 @@
+{
+  "name": "magnificent_monsters_pool_a",
+  "pulls": [
+    {
+      "weight": 15,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

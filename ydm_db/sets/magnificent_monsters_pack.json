@@ -1,0 +1,15 @@
+{
+  "name": "Magnificent Monsters (Pack)",
+  "code": "MAMO_P",
+  "type": "Booster Pack",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//3/3a/CH02-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MAMO_A",
+    "MAMO_B",
+    "MAMO_C",
+    "MAMO_D",
+    "MAMO_E"
+  ]
+}

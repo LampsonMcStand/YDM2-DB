@@ -1,0 +1,248 @@
+{
+  "code": "MAMO_C",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "magnificent_monsters_pool_c",
+  "cards": [
+    {
+      "id": 56209279,
+      "code": "MAMO-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31292357,
+      "code": "MAMO-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83629030,
+      "code": "MAMO-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72413000,
+      "code": "MAMO-EN044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7563579,
+      "code": "MAMO-EN045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48770333,
+      "code": "MAMO-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55088578,
+      "code": "MAMO-EN064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84693918,
+      "code": "MAMO-EN065",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11688916,
+      "code": "MAMO-EN066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84031359,
+      "code": "MAMO-EN067",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12975671,
+      "code": "MAMO-EN068",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83528184,
+      "code": "MAMO-EN069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78744660,
+      "code": "MAMO-EN070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11852093,
+      "code": "MAMO-EN079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56311997,
+      "code": "MAMO-EN080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19974580,
+      "code": "MAMO-EN081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10515412,
+      "code": "MAMO-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64626565,
+      "code": "MAMO-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91140491,
+      "code": "MAMO-EN087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72246674,
+      "code": "MAMO-EN089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66736884,
+      "code": "MAMO-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3496543,
+      "code": "MAMO-EN099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78293584,
+      "code": "MAMO-EN100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94103142,
+      "code": "MAMO-EN102",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93481594,
+      "code": "MAMO-EN103",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38007649,
+      "code": "MAMO-EN104",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26162470,
+      "code": "MAMO-EN105",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53557529,
+      "code": "MAMO-EN106",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25940932,
+      "code": "MAMO-EN107",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95589901,
+      "code": "MAMO-EN108",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99398682,
+      "code": "MAMO-EN109",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57847269,
+      "code": "MAMO-EN110",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89693655,
+      "code": "MAMO-EN111",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12607053,
+      "code": "MAMO-EN112",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3280747,
+      "code": "MAMO-EN113",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35035481,
+      "code": "MAMO-EN116",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80320877,
+      "code": "MAMO-EN117",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53813120,
+      "code": "MAMO-EN118",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17269895,
+      "code": "MAMO-EN119",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44654994,
+      "code": "MAMO-EN120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

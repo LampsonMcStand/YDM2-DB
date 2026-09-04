@@ -1,0 +1,80 @@
+{
+  "code": "MAMO_1",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "magnificent_monsters_pool_1",
+  "cards": [
+    {
+      "id": 3739500,
+      "code": "MAMO-EN121",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3739500,
+      "code": "MAMO-EN121",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30138615,
+      "code": "MAMO-EN122",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30138615,
+      "code": "MAMO-EN122",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66122213,
+      "code": "MAMO-EN123",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66122213,
+      "code": "MAMO-EN123",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92517928,
+      "code": "MAMO-EN124",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92517928,
+      "code": "MAMO-EN124",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39016067,
+      "code": "MAMO-EN125",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39016067,
+      "code": "MAMO-EN125",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65400671,
+      "code": "MAMO-EN126",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65400671,
+      "code": "MAMO-EN126",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+  ]
+}

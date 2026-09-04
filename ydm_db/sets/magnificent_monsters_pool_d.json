@@ -1,0 +1,128 @@
+{
+  "code": "MAMO_D",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "magnificent_monsters_pool_d",
+  "cards": [
+    {
+      "id": 15771991,
+      "code": "MAMO-EN048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 342673,
+      "code": "MAMO-EN051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38648860,
+      "code": "MAMO-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52854600,
+      "code": "MAMO-EN056",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51831560,
+      "code": "MAMO-EN057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75046994,
+      "code": "MAMO-EN058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 875572,
+      "code": "MAMO-EN059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92248362,
+      "code": "MAMO-EN062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97556336,
+      "code": "MAMO-EN063",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96334243,
+      "code": "MAMO-EN071",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73452089,
+      "code": "MAMO-EN072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80453041,
+      "code": "MAMO-EN075",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85065943,
+      "code": "MAMO-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89851827,
+      "code": "MAMO-EN078",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70636044,
+      "code": "MAMO-EN084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48835607,
+      "code": "MAMO-EN090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12067160,
+      "code": "MAMO-EN091",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44763025,
+      "code": "MAMO-EN093",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22819092,
+      "code": "MAMO-EN095",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66328392,
+      "code": "MAMO-EN098",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
