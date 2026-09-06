@@ -2,18 +2,7 @@
   "name": "magnificent_monsters_pool_2",
   "pulls": [
     {
-      "weight": 5,
-      "entries": [
-        {
-          "count": 1,
-          "rarities": [
-            "Ultra Rare"
-          ]
-        }
-      ]
-    },
-    {
-      "weight": 2,
+      "weight": 7,
       "entries": [
         {
           "count": 1,
