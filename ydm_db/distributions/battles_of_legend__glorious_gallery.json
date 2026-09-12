@@ -1,35 +1,36 @@
 {
-  "name": "rarity_collection_5_variant_art",
+  "name": "battles_of_legend__glorious_gallery",
   "pulls": [
     {
-      "weight": 485,
+      "weight": 557,
       "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
         {
           "count": 1,
           "rarities": [
-            "Ultra Rare"
+            "Secret Rare"
           ]
         }
       ]
     },
     {
-      "weight": 72,
-      "entries": [
-        {
-          "count": 1,
-          "rarities": [
-            "Starlight Rare"
-          ]
-        }
-      ]
-    }
-    {
       "weight": 18,
       "entries": [
         {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
           "count": 1,
           "rarities": [
-            "\u00a7fUltra Rare"
+            "\u00a7f Ultra Rare"
           ]
         }
       ]
@@ -38,9 +39,15 @@
       "weight": 1,
       "entries": [
         {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
           "count": 1,
           "rarities": [
-            "\u00a7fStarlight Rare"
+            "Starlight Rare"
           ]
         }
       ]

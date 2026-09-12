@@ -703,121 +703,133 @@
     {
       "id": 37818794,
       "code": "RA05-EN141",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 37818794,
       "code": "RA05-EN141",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 32828466,
       "code": "RA05-EN142",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 32828466,
       "code": "RA05-EN142",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 35952884,
       "code": "RA05-EN143",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 35952884,
       "code": "RA05-EN143",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 95134948,
       "code": "RA05-EN144",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 95134948,
       "code": "RA05-EN144",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 6218704,
       "code": "RA05-EN145",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 6218704,
       "code": "RA05-EN145",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 21637210,
       "code": "RA05-EN146",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 21637210,
       "code": "RA05-EN146",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 35405755,
       "code": "RA05-EN147",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 35405755,
       "code": "RA05-EN147",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 44146295,
       "code": "RA05-EN148",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 44146295,
       "code": "RA05-EN148",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 48130397,
       "code": "RA05-EN149",
-      "rarity": "Ultra Rare",
+      "rarity": "\u00a7fUltra Rare",
       "image_index": 1
     },
     {
       "id": 48130397,
       "code": "RA05-EN149",
-      "rarity": "Starlight Rare",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     },
     {
       "id": 97045737,
       "code": "RA05-EN150",
       "rarity": "Ultra Rare",
-      "image_index": 1
+      "image_index": 0
     },
     {
       "id": 97045737,
       "code": "RA05-EN150",
       "rarity": "Starlight Rare",
+      "image_index": 0
+    }
+    {
+      "id": 97045737,
+      "code": "RA05-EN150",
+      "rarity": "\u00a7fUltra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 97045737,
+      "code": "RA05-EN150",
+      "rarity": "\u00a7fStarlight Rare",
       "image_index": 1
     }
   ]
