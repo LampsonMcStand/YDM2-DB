@@ -1,0 +1,46 @@
+{
+  "name": "Demo Progression Set 3 Deck B",
+  "code": "26DE_3B",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//c/cb/ProgressionSets2026-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 19665973,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97268402,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66961194,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53582587,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1224927,
+      "code": "26DE-ENJ01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+  ]
+}

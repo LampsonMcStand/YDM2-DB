@@ -1,0 +1,130 @@
+{
+  "name": "Demo Decks 2026",
+  "code": "26DE_B",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//2/28/26DE-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 14898066,
+      "code": "26DE-ENB01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93346024,
+      "code": "26DE-ENB02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11091375,
+      "code": "26DE-ENB03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31553716,
+      "code": "26DE-ENB04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51534754,
+      "code": "26DE-ENB05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73698349,
+      "code": "26DE-ENB06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16956455,
+      "code": "26DE-ENB07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15960641,
+      "code": "26DE-ENB08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20586572,
+      "code": "26DE-ENB09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55969226,
+      "code": "26DE-ENB10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "26DE-ENB11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "26DE-ENB12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34016756,
+      "code": "26DE-ENB13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26412047,
+      "code": "26DE-ENB14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47453433,
+      "code": "26DE-ENB15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77754944,
+      "code": "26DE-ENB16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "26DE-ENB17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "26DE-ENB18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "26DE-ENB19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98954106,
+      "code": "26DE-ENB20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

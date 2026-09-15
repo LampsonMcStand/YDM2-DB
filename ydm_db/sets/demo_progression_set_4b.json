@@ -1,0 +1,70 @@
+{
+  "name": "Demo Progression Set 4 Deck B",
+  "code": "26DE_4B",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//c/cb/ProgressionSets2026-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "26DE-ENK01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88241506,
+      "code": "26DE-ENK02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8240199,
+      "code": "26DE-ENK03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45644898,
+      "code": "26DE-ENK04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45644898,
+      "code": "26DE-ENK04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "26DE-ENK05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40908371,
+      "code": "26DE-ENK06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52639377,
+      "code": "26DE-ENK07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29143726,
+      "code": "26DE-ENK08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87188910,
+      "code": "26DE-ENK09",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

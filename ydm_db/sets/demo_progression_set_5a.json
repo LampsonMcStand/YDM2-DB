@@ -1,0 +1,70 @@
+{
+  "name": "Demo Progression Set 5 Deck A",
+  "code": "26DE_5A",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//c/cb/ProgressionSets2026-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 7084129,
+      "code": "26DE-ENG01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7084129,
+      "code": "26DE-ENG01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97631303,
+      "code": "26DE-ENG02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11827244,
+      "code": "26DE-ENG03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95477924,
+      "code": "26DE-ENG04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48680970,
+      "code": "26DE-ENG05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84433295,
+      "code": "26DE-ENG06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73452089,
+      "code": "26DE-ENG07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50237654,
+      "code": "26DE-ENG08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13735899,
+      "code": "26DE-ENG09",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

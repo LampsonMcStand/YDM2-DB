@@ -1,0 +1,12 @@
+{
+  "name": "Demo Decks 2026",
+  "code": "26DE",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//2/28/26DE-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "26DE_A",
+    "26DE_B"
+  ]
+}

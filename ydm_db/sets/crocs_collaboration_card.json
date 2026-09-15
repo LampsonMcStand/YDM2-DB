@@ -1,0 +1,16 @@
+{
+  "name": "Crocs collaboration card",
+  "code": "26DE_A",
+  "type": "Promotional card",
+  "date": "09-09-2026",
+  "image": "https://ms.yugipedia.com//c/c3/Crocodile-CRC1-EN-NPR-LE.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 77699839,
+      "code": "CRC1-EN001",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

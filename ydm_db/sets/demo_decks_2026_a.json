@@ -1,0 +1,130 @@
+{
+  "name": "Demo Decks 2026",
+  "code": "26DE_A",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//2/28/26DE-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 13039848,
+      "code": "26DE-ENA01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69140098,
+      "code": "26DE-ENA02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11321183,
+      "code": "26DE-ENA03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "26DE-ENA04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83994646,
+      "code": "26DE-ENA05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78658564,
+      "code": "26DE-ENA06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71413901,
+      "code": "26DE-ENA07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "26DE-ENA08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "26DE-ENA09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "26DE-ENA10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52097679,
+      "code": "26DE-ENA11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "26DE-ENA12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81510157,
+      "code": "26DE-ENA13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97169186,
+      "code": "26DE-ENA14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "26DE-ENA15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12607053,
+      "code": "26DE-ENA16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44095762,
+      "code": "26DE-ENA17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "26DE-ENA18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "26DE-ENA19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78211862,
+      "code": "26DE-ENA20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

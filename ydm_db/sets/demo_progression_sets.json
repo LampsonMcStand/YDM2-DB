@@ -1,0 +1,20 @@
+{
+  "name": "Demo Progression Sets",
+  "code": "26DE_S",
+  "type": "Demo Deck",
+  "date": "03-09-2026",
+  "image": "https://ms.yugipedia.com//c/cb/ProgressionSets2026-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "26DE_1A",
+    "26DE_2A",
+    "26DE_3A",
+    "26DE_4A",
+    "26DE_5A",
+    "26DE_1B",
+    "26DE_2B",
+    "26DE_3B",
+    "26DE_4B",
+    "26DE_5B"
+  ]
+}
